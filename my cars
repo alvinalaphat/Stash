@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
+<head>
+ <title>Cars</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ </head>
+ <body style="background-color:#000080">
+ <h1><font size="10" color="#ff8300"><center>My Cars</center></font></h1>
+ <div>
+	<font size="5" color="#ff8300">
+ <dl> 
+	<dt><h3>Toyota Corolla</h3></dt>    
+		<dd><img src="toyota.jpg" height="200" width="400" /></dd>
+	<dt><h3>Honda CR-V</h3></dt>
+		<dd><img src="honda.jpg" height="200" width="400" /></dd> 
+	<dt><h3>Toyota RAV4</h3></dt>
+		<dd><img src="rav.jpg" height="200" width="400" /></dd> 
+	<br>
+	Click <a href="file:///C:/Users/Student/Desktop/WebDesign/01-FirstWebsite/index.html">here</a> to go back to the Main Page
+	</font>
+		</div>
+</body>
+</html>
+
