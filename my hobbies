@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
+<head>
+ <title>Hobby</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ </head>
+ <body style="background-color:#000080">
+ <h1><font size="10" color="#ff8300"><center>My Hobbies</center></font></h1>
+ <div>
+	<font size="5" color="#ff8300">
+	 <dl> 
+		<dt><h3>Soccer</h3></dt>    
+			<dd>Association football, more commonly known as football or soccer, is a team sport played between two teams of eleven players with a spherical ball.</dd>
+		<dt><h3>Python</h3></dt>
+			<dd>Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace.</dd> 
+		<dt><h3>Netflix</h3></dt>
+			<dd>Netflix, Inc. is an American over-the-top media services provider, headquartered in Los Gatos, California. Founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, the company's primary business is its subscription-based streaming service, which offers online streaming of a library of films and television programs including those produced in-house. </dd> 
+		<dt><h3>Snapchat</h3></dt> 
+			<dd>Snapchat is a camera. No, not the kind with a flashbulb and a lens cap. It’s a new kind of camera that’s connected to your friends and the world. Over 180 million people use it every day to talk, play, learn — and take some pictures, too.</dd> 
+		<dt><h3>YouTube</h3></dt> 
+			<dd>YouTube is an American video-sharing website headquartered in San Bruno, California. The service was created by three former PayPal employees—Chad Hurley, Steve Chen, and Jawed Karim—in February 2005.</dd>
+<br>
+		Click <a href="file:///C:/Users/Student/Desktop/WebDesign/01-FirstWebsite/index.html">here</a> to go back to the Main Page
+	</font>
+		</div>
+		</body>
+</html>
